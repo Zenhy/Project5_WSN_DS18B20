@@ -1,5 +1,6 @@
 # Project5_WSN_DS18B20
-A wireless DS18B20 sensor network, include data post to Database, Web server that display temperature graph, tables, and real time monitoring (Via Asynchronous web server)
+A wireless DS18B20 sensor network, include data post to Database, Web server that display temperature graph, tables, and real time monitoring (Via Asynchronous web server).
+
 The php files belong to the var/www/html directory:
 Index = main page with hyperlinks 
 Chart = display sensors value in graph (web server)
